@@ -1,2 +1,2 @@
 # Real-Time Stock Price Tracker
-Real-Time Stock Price Tracker in Python
+Real-time stocks and cryptocurrencies price tracker using Python Flask framework, JavaScript, HTML, and CSS.
